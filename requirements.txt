@@ -1,7 +1,2 @@
-logging
-sqlite3
-html
-re
-math
-os
-random
+python-telegram-bot==20.7
+python-dotenv
